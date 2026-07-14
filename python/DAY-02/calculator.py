@@ -1,0 +1,8 @@
+number_1,number_2=float(input('enter num 1:')),float(input('enter num 2: '))
+print(f'{number_1}+{number_2} = {number_1+number_2}')
+print(f'{number_1}-{number_2} = {number_1-number_2}')
+print(f'{number_1}*{number_2} = {number_1*number_2}')
+print(f'{number_1}/{number_2} = {number_1/number_2}')
+print(f'{number_1}//{number_2} = {number_1//number_2}')
+print(f'{number_1}%{number_2} = {number_1%number_2}')
+print(f'{number_1}**{number_2} = {number_1**number_2}')
